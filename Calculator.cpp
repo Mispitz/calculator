@@ -39,5 +39,5 @@ int main()
 
 int mul(int a, int b)
 {
-    return a * b;//lovelove
+    return a * b;//loveloveomg
 }
